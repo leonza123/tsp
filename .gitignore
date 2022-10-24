@@ -1,0 +1,17 @@
+
+TSP/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+TSP/obj/Debug/netcoreapp3.1/TSP.AssemblyInfo.cs
+TSP/obj/Debug/netcoreapp3.1/TSP.assets.cache
+TSP/obj/Debug/netcoreapp3.1/TSP.AssemblyInfoInputs.cache
+*.cache
+TSP/obj/Debug/netcoreapp3.1/TSP.csproj.FileListAbsolute.txt
+*.dll
+*.exe
+*.pdb
+*.props
+*.targets
+TSP/obj/TSP.csproj.nuget.dgspec.json
+TSP/obj/project.assets.json
+TSP/bin/Debug/netcoreapp3.1/TSP.deps.json
+TSP/bin/Debug/netcoreapp3.1/TSP.runtimeconfig.json
+TSP/bin/Debug/netcoreapp3.1/TSP.runtimeconfig.dev.json

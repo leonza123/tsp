@@ -1,0 +1,24 @@
+1. 4 virsotnes
+C:\Users\Leon\Desktop\Praktiska kombinatorika\TSP\TSP\input1.txt
+Route: A->B->D->C->A
+Cost: 16
+Time spent: 00:00:00.0426026
+
+2. 8 virsotnes
+C:\Users\Leon\Desktop\Praktiska kombinatorika\TSP\TSP\input2.txt
+Route: A->G->B->C->D->F->H->E->A
+Cost: 21
+Time spent: 00:00:00.0185230
+
+3. 16 virsotnes
+C:\Users\Leon\Desktop\Praktiska kombinatorika\TSP\TSP\input3.txt
+Route: A->I->B->C->F->H->G->D->AA->E->AC->AJ->AB->AF->AE->AD->A
+Cost: 47
+Time spent: 00:00:00.0525457
+
+4. 32 virsotnes
+C:\Users\Leon\Desktop\Praktiska kombinatorika\TSP\TSP\input4.txt
+Route: A->AI->C->B->AD->D->G->F->H->E->I->AJ->AA->AB->AF->AC->AG->BJ->AH->BA->BE->BH->BC->AE->BF->CJ->BB->BD->BI->CA->BG->CB->A
+Cost: 71
+Time spent: 00:00:00.0516025
+
